@@ -4,5 +4,4 @@ I'm a data engineer passionate about making quality data for quality business de
 
 ## Find me
 - On [LinkedIn](https://www.linkedin.com/in/paolo-garcia002)
-- On my site [Paolo Garcia](https://pg002002.github.io)
 - Out in the garden
