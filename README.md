@@ -3,6 +3,6 @@
 I'm a data engineer passionate about making quality data for quality business decisions. Current technologies I enjoy working with include: Apache Spark, Python, & SQL. Outside of work, I enjoy working on my garden, reading, and cooking.
 
 ## Find me
-- On [LinkedIn](www.linkedin.com/in/paolo-garcia002)
+- On [LinkedIn](https://www.linkedin.com/in/paolo-garcia002)
 - On my site [Paolo Garcia](https://pg002002.github.io)
 - Out in the garden
